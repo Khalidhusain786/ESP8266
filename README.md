@@ -9,4 +9,4 @@
 
 
 
-# esp8266 deauther password is deauther
+# esp8266 deauther password is deauther (http://192.168.4.1)
